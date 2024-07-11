@@ -14,3 +14,6 @@ This repository is about normal distribution.
 
 ### Central Limit Theorem
 ![Central Limit Theorem](norm/sample_avg/sample_avg.png)
+
+### Distribution of Sample Sum
+![Distribution of Sample Sum](norm/sample_sum/sample_sum.png)
