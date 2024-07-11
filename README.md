@@ -2,6 +2,7 @@
 
 This repository is about normal distribution.
 
+### Standard Normal Distribution
 ![Standard Normal Distribution](norm/norm_dist/norm_dist.png)
 
 
