@@ -12,4 +12,5 @@ This repository is about normal distribution.
 ### Normal Distribution with Variable $\sigma$
 ![Normal Distribution with Variable sigma](norm/norm_param/norm_sigma.png)
 
-
+### Central Limit Theorem
+![Central Limit Theorem](norm/sample_avg/sample_avg.png)
