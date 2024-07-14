@@ -19,3 +19,6 @@ This repository is about normal distribution.
 
 ### Multivariate Normal Distribution
 ![Multivariate Normal Distribution](norm/mult_norm/plot_norm.png)
+
+### Covariance Matrix
+![Covariance Matrix](norm/mult_norm/cov.png)

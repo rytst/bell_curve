@@ -1,14 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
-def multivariate_normal(x, mu, cov):
-    det = np.linalg.det(cov)
-    inv = np.linalg.inv(cov)
-    D = len(x)
-    z = 1 / np.sqrt((2 * np.pi)**D * det)
-    y = z * np.exp((x - mu).T @ inv @ (x - mu) / -2.0)
-    return y
-
+from multivariate_normal import multivariate_normal
 
 mu = np.array([0.5, -0.2])
 cov = np.array([[2.0, 0.3],
