@@ -38,8 +38,6 @@ fig = plt.figure(figsize=(10, 10))
 
 for i in range(Z.shape[0]):
     ax = fig.add_subplot(2, 2, i+1)
-    ax.set_xlabel('x')
-    ax.set_ylabel('y')
     ax.set_title(f'cov = {covs[i]}')
     ax.contour(X, Y, Z[i])
 
