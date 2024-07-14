@@ -18,4 +18,4 @@ This repository is about normal distribution.
 ![Distribution of Sample Sum](norm/sample_sum/sample_sum.png)
 
 ### Multivariate Normal Distribution
-![Multivariate Normal Distribution](norm/plot_norm.png)
+![Multivariate Normal Distribution](norm/mult_norm/plot_norm.png)
