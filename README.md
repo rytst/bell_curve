@@ -5,7 +5,6 @@ This repository is about normal distribution.
 ### Standard Normal Distribution
 ![Standard Normal Distribution](norm/norm_dist/norm_dist.png)
 
-
 ### Normal Distribution with Variable $\mu$
 ![Normal Distribution with Variable mu](norm/norm_param/norm_mu.png)
 
@@ -17,3 +16,6 @@ This repository is about normal distribution.
 
 ### Distribution of Sample Sum
 ![Distribution of Sample Sum](norm/sample_sum/sample_sum.png)
+
+### Multivariate Normal Distribution
+![Multivariate Normal Distribution](norm/plot_norm.png)
